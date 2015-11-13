@@ -1,4 +1,4 @@
-The code you see on the left is the exact equivalent written in Javascript.
+The code you see on the left is the exact equivalent written in Java.
 
 You can run this code : {Run}(node run-user.js 1-loops/while.js)
 
