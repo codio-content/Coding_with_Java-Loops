@@ -1,17 +1,24 @@
-Test your code here before using the Check It button : {Run}(node run-user.js N-0.js)
-
-Beware the infinite loop!
-
 {Check It!|assessment}(test-635686108)
 
 |||guidance
 ## Solution
-```javascript
-input0 = 10
+```java
+public class Challenge {
 
-while ( input0 >= 0 ) {
-  output(input0)
-  input0 = input0 - 1
+    public static void main(String[] args) {
+      
+        // input variables
+        int input0 = Integer.parseInt(args[0]);
+      
+        // Write your code below.
+
+        while (input0 >= 0) {
+          System.out.println(input0);
+          input0 = input0 - 1;
+        }
+        
+      
+    }
 }
 ```
 |||

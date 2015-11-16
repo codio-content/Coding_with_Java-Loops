@@ -14,7 +14,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Loops-f2ba.md",
    "chapter": true,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "4c9e559e-12f8-e1e-4a1c-83eabeef88fc",
@@ -24,7 +25,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Preparation-video-4c9e.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "a5d7e34-7ff8-d078-86c4-b992cdcf3bff",
@@ -45,7 +47,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Experiments-a5d7.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "c8136e6a-a497-2142-83a4-719e2a1b98dc",
@@ -68,7 +71,8 @@
    "chapter": true,
    "reset": [
     "1-loops"
-   ]
+   ],
+   "teacherOnly": false
   },
   {
    "id": "e21d4083-c87f-f251-7bf6-ca5eca7eadd0",
@@ -79,7 +83,7 @@
      "action": "close"
     },
     {
-     "path": "1-loops/while.js",
+     "path": "content/while_loop/While.java",
      "panel": 0,
      "action": "open"
     }
@@ -89,7 +93,8 @@
    "type": "markdown",
    "content-file": ".guides/content/A--while--loop-e21d.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "f8289a94-27dd-b97d-ecad-335dc113364b",
@@ -99,7 +104,8 @@
    "type": "markdown",
    "content-file": ".guides/content/While-explained-f828.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "1f64d5d4-e1ba-14bf-622c-3c9d1478ac3d",
@@ -110,7 +116,7 @@
      "action": "close"
     },
     {
-     "path": "1-loops/infinite.js",
+     "path": "content/while_loop/Infinite.java",
      "panel": 0,
      "action": "open"
     }
@@ -120,7 +126,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Beware-infinite-loops-1f64.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "bb18fce0-1bb8-7ea2-bd3c-da9e57f3788f",
@@ -136,7 +143,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Challenges-bb18.md",
    "chapter": true,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "d120b532-c104-3991-9768-8e86b3b1c90",
@@ -147,7 +155,7 @@
      "action": "close"
     },
     {
-     "path": "0-N.js",
+     "path": "challenges/while/Challenge.java",
      "panel": 0,
      "action": "open"
     }
@@ -157,7 +165,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Count-from-0-to-N-d120.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "4d65d79-f549-5f12-937-19ca5355139e",
@@ -168,7 +177,7 @@
      "action": "close"
     },
     {
-     "path": "N-0.js",
+     "path": "challenges/n_to_cero/Challenge.java",
      "panel": 0,
      "action": "open"
     }
@@ -178,7 +187,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Count-from-N-to-0-4d65.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "3e0a81c0-5191-d600-a70-570064df69c1",
@@ -189,7 +199,7 @@
      "action": "close"
     },
     {
-     "path": "0-N-0.js",
+     "path": "challenges/n_or_minus_n/Challenge.java",
      "panel": 0,
      "action": "open"
     }
@@ -199,7 +209,8 @@
    "type": "markdown",
    "content-file": ".guides/content/N-to-0-or--N-to-0-3e0a.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "549ea2b1-6555-f548-30d0-1cdb5588f860",
@@ -222,7 +233,8 @@
    "chapter": true,
    "reset": [
     "2-loops"
-   ]
+   ],
+   "teacherOnly": false
   },
   {
    "id": "5d3dbe96-21a-379b-472e-3910f875cff8",
@@ -243,7 +255,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Equivalent-code-5d3d.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "5c748613-e799-7ea0-6877-8ff8c94db4b1",
@@ -266,7 +279,8 @@
    "chapter": true,
    "reset": [
     "3-loops"
-   ]
+   ],
+   "teacherOnly": false
   },
   {
    "id": "5398b862-1d1b-1654-981a-7d50e238a689",
@@ -276,7 +290,8 @@
    "type": "markdown",
    "content-file": ".guides/content/For-explained-5398.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "9dfd4f86-fb0b-f69a-573c-27a0dec04166",
@@ -297,7 +312,8 @@
    "type": "markdown",
    "content-file": ".guides/content/A-bit-more-on-for-9dfd.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "72b490a7-f150-b82b-26dd-53a1ffdf2d3",
@@ -307,7 +323,8 @@
    "type": "markdown",
    "content-file": ".guides/content/ctr----ctr---72b4.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "483ada2-3b7b-349a-c689-d356899242e0",
@@ -323,7 +340,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Challenges-483a.md",
    "chapter": true,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "bdd97ab-f0bd-48ef-f2ed-43e653a93b4c",
@@ -344,7 +362,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Times-table-bdd9.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "a0c1ed31-7d47-7fc3-5a41-b114a76ca91f",
@@ -365,7 +384,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Factorial-a0c1.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "d669f314-2594-e078-4de6-9a953f74265f",
@@ -386,7 +406,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Squared-d669.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "8a46b660-c34a-57f8-d24a-afff936c10d3",
@@ -407,7 +428,8 @@
    "type": "markdown",
    "content-file": ".guides/content/X-to-the-Y-8a46.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "6c77311f-b329-3f21-5778-76ee465450d0",
@@ -428,7 +450,8 @@
    "type": "markdown",
    "content-file": ".guides/content/Fibonacci-Sequence-6c77.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "75705031-fb5d-8605-394d-d1f5450959a1",
@@ -451,7 +474,8 @@
    "chapter": true,
    "reset": [
     "4-loops"
-   ]
+   ],
+   "teacherOnly": false
   },
   {
    "id": "e698af4b-13aa-1f46-997d-2a50389a79d0",
@@ -472,7 +496,8 @@
    "type": "markdown",
    "content-file": ".guides/content/The--continue--statement-e698.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   },
   {
    "id": "2d10ccca-4731-3565-a2fc-fef88b66ff9",
@@ -482,7 +507,8 @@
    "type": "markdown",
    "content-file": ".guides/content/All-done-2d10.md",
    "chapter": false,
-   "reset": []
+   "reset": [],
+   "teacherOnly": false
   }
  ],
  "theme": "light",

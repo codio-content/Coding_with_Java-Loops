@@ -1,16 +1,26 @@
-Test your code here before using the Check It button : {Run}(node run-user.js 0-N.js)
-
 {Check It!|assessment}(test-64983983)
 
 |||guidance
 ## Solution
-```javascript
-input0 = 7
-ctr = 0
+```java
+public class Challenge {
 
-while (ctr < input0) {
-  output(ctr)
-  ctr = ctr + 1
+    public static void main(String[] args) {
+      
+        // input variables
+        int input0 = Integer.parseInt(args[0]);
+      
+        // Write your code below.
+        int ctr = 0;
+
+        while (ctr <= input0) {
+          System.out.println(ctr);
+          ctr = ctr + 1;
+        }
+        
+      
+    }
 }
+
 ```
 |||

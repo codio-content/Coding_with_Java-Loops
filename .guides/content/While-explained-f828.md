@@ -24,6 +24,6 @@ In our code example, each time the statements in the code block are executed, th
 ## Have a play
 Feel free to change some of the values in the code and run it again (button below). You can also add more than 1 to `counter` in each loop *iteration* and see what happens.
 
- {Run}(node run-user.js 1-loops/while.js)
+ {Run}(./content/while_loop/While.sh)
  
  Remember, you can reset the code from the Settings menu at the top. Select the Reset Chapter option.
