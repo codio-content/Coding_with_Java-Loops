@@ -1,21 +1,29 @@
-{Run the code}(node run-user.js xy.js)
-
 {Check It!|assessment}(test-3599143521)
 
 |||guidance
 ## Solution
-```javascript
-input0 = 2
-input1 = 4
+```java
+public class Challenge {
 
-if ( input1 == 0) {
-  output (1)
+    public static void main(String[] args) {
+      
+        // input variables
+        int input0 = Integer.parseInt(args[0]);
+        int input1 = Integer.parseInt(args[1]);
+      
+        // Write your code below.
+        int total = 1;
+      
+        if (input1 == 0) {
+          System.out.println(total);
+        } else {
+          for (int i = 0; i < input1; i++) {
+            total = total * input0;
+          }
+          System.out.println(total);
+        }
+    }
 }
-else {
-  for (i = 0, total=1 ; i < input1 ; i++) {
-    total = total * input0
-  }
-  output(total)
-}
+
 ```
 |||

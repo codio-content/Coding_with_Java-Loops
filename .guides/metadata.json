@@ -418,7 +418,7 @@
      "action": "close"
     },
     {
-     "path": "xy.js",
+     "path": "challenges/xy/Challenge.java",
      "panel": 0,
      "action": "open"
     }
@@ -440,7 +440,7 @@
      "action": "close"
     },
     {
-     "path": "fibonacci.js",
+     "path": "challenges/fibonacci/Challenge.java",
      "panel": 0,
      "action": "open"
     }
@@ -462,7 +462,7 @@
      "action": "close"
     },
     {
-     "path": "4-loops/break.js",
+     "path": "content/for_loop/Break.java",
      "panel": 0,
      "action": "open"
     }
@@ -486,7 +486,7 @@
      "action": "close"
     },
     {
-     "path": "4-loops/continue.js",
+     "path": "content/for_loop/Continue.java",
      "panel": 0,
      "action": "open"
     }

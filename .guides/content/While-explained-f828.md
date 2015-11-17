@@ -5,7 +5,7 @@ The thing that needs some attention is the `while` statement and its code block.
 
 Every while statement looks like this
 
-```javascript
+```java
 while ( some_condition ) {
   some_code
   some_more_code

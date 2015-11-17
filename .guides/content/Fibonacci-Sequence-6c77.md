@@ -12,20 +12,31 @@ The next number is found by adding up the two numbers before it.
 
 and so on!
 
-{Run the code}(node run-user.js fibonacci.js)
-
 {Check It!|assessment}(test-3185812231)
 
 |||guidance
 ## Solution
-```javascript
-input0 = 8
+```java
 
-for ( ctr = 0, next = 1, current = 0, fib = 0; ctr <= input0; ctr ++) {
-  output(fib)
-  fib = next + current
-  next = current
-  current = fib
+public class Challenge {
+
+    public static void main(String[] args) {
+      
+        // input variables
+        int input0 = Integer.parseInt(args[0]);
+      
+        // Write your code below.
+        int next = 1;
+        int current = 0;
+        int fib = 0;
+        for ( int ctr = 0; ctr <= input0; ctr++ ) {
+          System.out.println(fib);
+          fib = next + current;
+          next = current;
+          current = fib;
+        }
+    }
 }
+
 ```
 |||
