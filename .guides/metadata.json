@@ -37,7 +37,7 @@
      "action": "close"
     },
     {
-     "path": "experiment.js",
+     "path": "content/Experiment.java",
      "panel": 0,
      "action": "open"
     }
