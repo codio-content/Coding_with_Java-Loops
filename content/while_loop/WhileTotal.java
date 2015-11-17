@@ -13,7 +13,7 @@ public class WhileTotal {
           System.out.println( total );  // And finally, we output 'total'
         }
         
-        System.out.println( "Final total: " +  total );
-      
+        System.out.println( "Final total: " +  total ); // When the while loop has finished,
+                                                        // output the final total 
     }
 }

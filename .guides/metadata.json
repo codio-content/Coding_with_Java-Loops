@@ -245,7 +245,7 @@
      "action": "close"
     },
     {
-     "path": "2-loops/utility.js",
+     "path": "content/while_loop/WhileTotal.java",
      "panel": 0,
      "action": "open"
     }
@@ -267,7 +267,7 @@
      "action": "close"
     },
     {
-     "path": "3-loops/for1.js",
+     "path": "content/for_loop/For1.java",
      "panel": 0,
      "action": "open"
     }
@@ -302,7 +302,7 @@
      "action": "close"
     },
     {
-     "path": "3-loops/for2.js",
+     "path": "content/for_loop/For2.java",
      "panel": 0,
      "action": "open"
     }
@@ -352,7 +352,7 @@
      "action": "close"
     },
     {
-     "path": "times-table.js",
+     "path": "challenges/times_table/Challenge.java",
      "panel": 0,
      "action": "open"
     }
@@ -374,7 +374,7 @@
      "action": "close"
     },
     {
-     "path": "factorial.js",
+     "path": "challenges/factorial/Challenge.java",
      "panel": 0,
      "action": "open"
     }
@@ -396,7 +396,7 @@
      "action": "close"
     },
     {
-     "path": "squared.js",
+     "path": "challenges/squared/Challenge.java",
      "panel": 0,
      "action": "open"
     }
