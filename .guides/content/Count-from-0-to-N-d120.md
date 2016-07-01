@@ -6,10 +6,10 @@
 public class Challenge {
 
     public static void main(String[] args) {
-      
+
         // input variables
         int input0 = Integer.parseInt(args[0]);
-      
+
         // Write your code below.
         int ctr = 0;
 
@@ -17,8 +17,8 @@ public class Challenge {
           System.out.println(ctr);
           ctr = ctr + 1;
         }
-        
-      
+
+
     }
 }
 

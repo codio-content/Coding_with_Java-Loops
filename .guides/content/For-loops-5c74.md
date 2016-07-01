@@ -8,7 +8,7 @@ Take a look at the code on the left. It does the same as the `while` loop code b
 public class WhileTotal {
 
     public static void main(String[] args) {
-      
+
         int counter = 1;                // This is a 'counter' variable.
         int total = 0;                  // This is our utility variable, 'total'
 
@@ -18,7 +18,7 @@ public class WhileTotal {
                                         // 'incrementing' the counter.
           System.out.println( total );  // And finally, we output 'total'
         }
-        
+
         System.out.println( "Final total: " +  total ); // When the while loop has finished,
                                                         // output the final total 
     }

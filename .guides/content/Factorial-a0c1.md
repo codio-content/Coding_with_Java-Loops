@@ -12,17 +12,17 @@ So, `4!` is `4*3*2*1` = `24`.
 public class Challenge {
 
     public static void main(String[] args) {
-      
+
         // input variables
         int input0 = Integer.parseInt(args[0]);
-      
+
         // Write your code below.
         int total = 1;
         for ( int i = 1; i <= input0 ; i++ ) {
           total = total * i;
         }
         System.out.println(total);
-      
+
     }
 }
 
