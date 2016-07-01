@@ -2,7 +2,7 @@
 public class While {
 
     public static void main(String[] args) {
-      
+
         // Write your code below.
 
         int counter = 0;           // This is a 'counter' variable.
@@ -12,6 +12,6 @@ public class While {
           counter = counter + 1;   // Here we add 1 to the counter. This is known
                                   // as 'incrementing' the counter.
         }
-      
+
     }
 }
